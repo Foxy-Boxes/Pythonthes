@@ -1,1 +1,2 @@
 # Pythonthes
+Nuray icin.
